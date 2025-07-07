@@ -17,7 +17,7 @@
     </properties>
 
     <dependencies>
-        <!-- ✅ Spring Core & Context for IoC Container -->
+        <!--  Spring Core & Context for IoC Container -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
@@ -27,7 +27,7 @@
 
     <build>
         <plugins>
-            <!-- ✅ Maven Compiler Plugin -->
+            <!--  Maven Compiler Plugin -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
