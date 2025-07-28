@@ -1,0 +1,8 @@
+LibraryManagement/
+├── src/
+│   ├── main/
+│   │   ├── java/            ← for Java source code
+│   │   └── resources/       ← for Spring config files like applicationContext.xml
+│   └── test/
+│       └── java/
+├── pom.xml                  ← Maven config file
